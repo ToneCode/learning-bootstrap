@@ -1,3 +1,8 @@
+p, h1 {
+	font-family: 'Droid Sans', sans-serif;
+}
+
+
 
 /*NAVIGATION*/
 
@@ -36,4 +41,14 @@
 	color: white;
 	font-family: 'Pacifico', cursive;
 	font-size: 5em;
+}
+
+.header p {
+	color: white;
+	font-size: 1.2em;
+}
+
+.header .btn {
+	padding: 5px 50px 5px 50px;
+	border-radius: 0;
 }
