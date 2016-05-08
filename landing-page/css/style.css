@@ -31,3 +31,7 @@
 	width: 100%;
 	border-bottom: 2px solid #c9c9c9;
 }
+
+.header h1 {
+	color: white;
+}
