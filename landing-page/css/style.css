@@ -9,5 +9,8 @@
 
 .navbar a {
 	color: #cccccc !important;
+}
 
+.navbar a:hover {
+	color: #ffffff !important;
 }
