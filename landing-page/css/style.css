@@ -55,11 +55,24 @@ p, h1 {
 
 @media(max-width:768px) {
 
-.header h1 {
-	font-size: 4em;
-}
+	.header {
+		text-align: center;
+		padding: 20%;
+	}
 
-.header p {
-	font-size: 1.1em;
+	.header h1 {
+		font-size: 4em;
+	}
+
+	.header p {
+		font-size: 1.1em;
+	}
+
+	.header .btn {
+		padding: 5px 12px 5px 12px;
+	}
+
+.header img {
+	padding-top: 10%;
 }
 }
