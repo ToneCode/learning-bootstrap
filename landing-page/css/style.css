@@ -27,4 +27,7 @@
 .header {
 	padding: 140px 0 60px;
 	background: url(../image/img/bg.jpg) no-repeat center center;
+	background-size: cover;
+	width: 100%;
+	border-bottom: 2px solid #c9c9c9;
 }
